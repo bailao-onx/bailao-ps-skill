@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/bailao-onx/bailao-ps-skill/releases/latest/download/bailao-ps-skill-github-ready.zip"><strong>⬇ Download ZIP</strong></a>
+</p>
+
+<p align="center">
   <a href="#get-started">Get started</a> ·
   <a href="#what-you-can-do">Use cases</a> ·
   <a href="docs/installation.md">Photoshop setup</a> ·
@@ -43,10 +47,12 @@ Hidden content in a flattened image needs inference, repair or reconstruction; i
 
 ## Get started
 
+### [⬇ Download ZIP](https://github.com/bailao-onx/bailao-ps-skill/releases/latest/download/bailao-ps-skill-github-ready.zip)
+
 Use **Codex with Photoshop 2026 on macOS or Windows**. Photoshop must be installed on the same computer as Codex's local tools. See [setup](docs/installation.md) for platform-specific commands and the verified Windows environment.
 
-1. Use **Code → Download ZIP** and unzip the repository.
-2. Rename the folder to `bailao-ps-skill` and place it in `~/.codex/skills/`, with `SKILL.md` directly inside. If you set `CODEX_HOME`, use its `skills/` directory.
+1. Click **[Download ZIP](https://github.com/bailao-onx/bailao-ps-skill/releases/latest/download/bailao-ps-skill-github-ready.zip)**, then unzip the downloaded file.
+2. Place the extracted `bailao-ps-skill` folder in `~/.codex/skills/`, with `SKILL.md` directly inside. If you set `CODEX_HOME`, use its `skills/` directory.
 3. Start a new Codex session. Follow the [setup guide](docs/installation.md) to confirm Photoshop access before the first task.
 4. Attach an image or PSD and describe the changes.
 

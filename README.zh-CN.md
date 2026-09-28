@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/bailao-onx/bailao-ps-skill/releases/latest/download/bailao-ps-skill-github-ready.zip"><strong>⬇ 下载 ZIP</strong></a>
+</p>
+
+<p align="center">
   <a href="#开始使用">开始使用</a> ·
   <a href="#你可以让它做什么">使用场景</a> ·
   <a href="docs/installation.md">安装与 Photoshop 接通</a> ·
@@ -43,10 +47,12 @@
 
 ## 开始使用
 
+### [⬇ 下载 ZIP](https://github.com/bailao-onx/bailao-ps-skill/releases/latest/download/bailao-ps-skill-github-ready.zip)
+
 使用 **Codex + Photoshop 2026**，可通过 macOS 或 Windows 本机脚本接通。Photoshop 需要安装在运行 Codex 本地工具的同一台电脑；平台对应命令与已验证的 Windows 环境见 [安装说明](docs/installation.md)。
 
-1. 点击仓库上方 **Code → Download ZIP**，解压。
-2. 把文件夹改名为 `bailao-ps-skill`，放入 `~/.codex/skills/`，确认里面直接包含 `SKILL.md`。若设置了 `CODEX_HOME`，使用该目录下的 `skills/`。
+1. 点击 **[下载 ZIP](https://github.com/bailao-onx/bailao-ps-skill/releases/latest/download/bailao-ps-skill-github-ready.zip)**，然后解压下载的文件。
+2. 把解压出来的 `bailao-ps-skill` 文件夹放入 `~/.codex/skills/`，确认里面直接包含 `SKILL.md`。若设置了 `CODEX_HOME`，使用该目录下的 `skills/`。
 3. 开一个新的 Codex 会话。首次使用先按 [安装说明](docs/installation.md) 确认 Photoshop 能被操作。
 4. 附上图片或 PSD，告诉 Codex 想改什么。
 
