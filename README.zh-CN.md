@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="docs/media/concept-preview.mp4"><img src="docs/media/concept-preview.gif" alt="工作流概念演示：独立元素重新排版，再进入 Photoshop 示意界面。" width="540"></a><br>
-  <sub>工作流概念演示（含 Photoshop 示意界面） · <a href="docs/media/concept-preview.mp4">观看有声版</a></sub>
+  <a href="docs/media/photoshop-demo.mp4"><img src="docs/media/photoshop-demo-loop.gif" alt="Photoshop 演示：分层重建、独立素材与多种排版。" width="540"></a><br>
+  <sub>Photoshop 演示（含示意转场） · <a href="docs/media/photoshop-demo.mp4">观看有声版</a></sub>
 </p>
 
 ## AI 图有了，接着在 Photoshop 里改

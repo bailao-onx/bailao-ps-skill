@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="docs/media/concept-preview.mp4"><img src="docs/media/concept-preview.gif" alt="Workflow concept: individual elements change layout and enter an illustrated Photoshop interface." width="540"></a><br>
-  <sub>Workflow concept demo with an illustrated Photoshop interface · <a href="docs/media/concept-preview.mp4">Watch with sound</a></sub>
+  <a href="docs/media/photoshop-demo.mp4"><img src="docs/media/photoshop-demo-loop.gif" alt="Photoshop demo: editable layers, independent assets and multiple layouts." width="540"></a><br>
+  <sub>Photoshop demo · includes illustrative transitions · <a href="docs/media/photoshop-demo.mp4">Watch with sound</a></sub>
 </p>
 
 ## Your AI image is ready. Keep editing in Photoshop.
