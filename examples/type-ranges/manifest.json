@@ -1,0 +1,56 @@
+{
+  "canvas": {
+    "width": 720,
+    "height": 320,
+    "background": "F4F2ED"
+  },
+  "layers": [
+    {
+      "type": "text",
+      "name": "Editable range sample",
+      "text": "EDITABLE TYPE",
+      "font": "ArialMT",
+      "color": "163C54",
+      "font_size_px": 48,
+      "box": [
+        50,
+        90,
+        620,
+        80
+      ],
+      "character_styles": [
+        {
+          "from": 0,
+          "to": 1,
+          "horizontal_scale": 140,
+          "tracking": 80
+        },
+        {
+          "from": 1,
+          "to": 8,
+          "tracking": 15
+        },
+        {
+          "from": 9,
+          "to": 13,
+          "horizontal_scale": 85,
+          "tracking": 100
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "name": "Exact punctuation sample",
+      "text": "Keep 'straight quotes' and styles.",
+      "font": "ArialMT",
+      "color": "163C54",
+      "font_size_px": 24,
+      "box": [
+        50,
+        200,
+        620,
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "canvas": {
+    "width": 120,
+    "height": 80,
+    "background": "FFFFFF"
+  },
+  "layers": [
+    {
+      "type": "shape",
+      "name": "Outside stroke control",
+      "geometry": "rectangle",
+      "color": "0088FF",
+      "box": [
+        40,
+        30,
+        30,
+        20
+      ],
+      "effects": {
+        "stroke": {
+          "color": "FF0000",
+          "size": 6,
+          "opacity": 100
+        }
+      }
+    }
+  ]
+}

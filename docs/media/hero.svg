@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">bailao-ps-skill</title>
+  <desc id="desc">Tell Codex what to change in Photoshop. Rearrange, refine and deliver the PSD.</desc>
+  <rect width="1200" height="400" fill="#fff"/>
+  <rect width="12" height="400" fill="#d31f25"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#111315">
+    <text x="58" y="53" font-size="15" font-weight="700" letter-spacing="3">BAILAO / OPEN SOURCE</text>
+    <path d="M58 76H1142" stroke="#111315"/>
+    <text x="55" y="154" font-size="69" font-weight="800" letter-spacing="-3">Tell Codex.</text>
+    <text x="55" y="227" font-size="69" font-weight="800" letter-spacing="-3" fill="#d31f25">Edit in Photoshop.</text>
+    <text x="58" y="274" font-size="22" fill="#555">Rearrange. Refine. Deliver the PSD.</text>
+    <text x="58" y="353" font-family="Menlo, Consolas, monospace" font-size="24" font-weight="700">bailao-ps-skill</text>
+    <rect x="795" y="104" width="280" height="214" rx="3" fill="#f3f1ec" stroke="#d8d7d1"/>
+    <rect x="817" y="87" width="280" height="70" rx="3" fill="#fff" stroke="#111315"/>
+    <text x="836" y="130" font-size="32" font-weight="700">T</text>
+    <text x="884" y="129" font-size="18" font-weight="700">Live text</text>
+    <rect x="839" y="173" width="280" height="70" rx="3" fill="#fff" stroke="#111315"/>
+    <path d="M858 216L876 187L890 216Z" fill="#111315"/>
+    <text x="906" y="215" font-size="18" font-weight="700">Smart Objects</text>
+    <rect x="861" y="259" width="280" height="70" rx="3" fill="#d31f25"/>
+    <circle cx="894" cy="294" r="14" fill="none" stroke="#fff" stroke-width="4"/>
+    <text x="928" y="301" font-size="18" fill="#fff" font-weight="700">Native shapes</text>
+    <text x="1142" y="371" text-anchor="end" font-size="13" letter-spacing="2" fill="#777">WORDS → PHOTOSHOP → PSD</text>
+  </g>
+</svg>

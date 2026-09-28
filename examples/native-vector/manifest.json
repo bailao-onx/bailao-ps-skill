@@ -1,0 +1,86 @@
+{
+  "canvas": {
+    "width": 640,
+    "height": 480,
+    "background": "F0EDE5"
+  },
+  "layers": [
+    {
+      "name": "Ring",
+      "type": "vector",
+      "primitive": "ring",
+      "center": [
+        320,
+        240
+      ],
+      "radius": 125,
+      "inner_radius": 108,
+      "fill": "263848",
+      "group": "Shapes"
+    },
+    {
+      "name": "Dashed line",
+      "type": "vector",
+      "primitive": "line",
+      "from": [
+        60,
+        405
+      ],
+      "to": [
+        580,
+        405
+      ],
+      "stroke": {
+        "color": "E2613B",
+        "width": 5,
+        "dash": [
+          20,
+          12
+        ],
+        "cap": "round"
+      },
+      "group": "Shapes"
+    },
+    {
+      "name": "Circle title",
+      "type": "text",
+      "text": "EDITABLE TYPE ON A CIRCLE",
+      "font": "ArialMT",
+      "font_size_px": 22,
+      "color": "263848",
+      "box": [
+        140,
+        60,
+        380,
+        380
+      ],
+      "on_circle": {
+        "center": [
+          320,
+          240
+        ],
+        "radius": 143,
+        "start_deg": 205,
+        "direction": "cw"
+      },
+      "group": "Typography"
+    },
+    {
+      "name": "Main title",
+      "type": "text",
+      "text": "REBUILD\nTEST '02'",
+      "font": "ArialMT",
+      "font_size_px": 27,
+      "color": "263848",
+      "box": [
+        249,
+        210,
+        170,
+        70
+      ],
+      "leading_px": 34,
+      "tracking": 20,
+      "group": "Typography"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "canvas": {
+    "width": 320,
+    "height": 180,
+    "background": "FFFFFF"
+  },
+  "layers": [
+    {
+      "type": "image",
+      "name": "Masked photo",
+      "file": "color.png",
+      "box": [
+        32,
+        40,
+        256,
+        96
+      ],
+      "mask_file": "mask.png"
+    }
+  ]
+}

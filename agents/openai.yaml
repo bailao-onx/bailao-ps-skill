@@ -1,0 +1,4 @@
+interface:
+  display_name: "bailao-ps-skill"
+  short_description: "Rearrange, edit and deliver designs in Photoshop"
+  default_prompt: "Use $bailao-ps-skill to make the requested layout and content changes in Photoshop, preserve editable elements, and check the saved PSD and preview."

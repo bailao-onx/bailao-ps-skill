@@ -1,0 +1,48 @@
+{
+  "canvas": {
+    "width": 640,
+    "height": 480,
+    "background": "000000"
+  },
+  "layers": [
+    {
+      "type": "shape",
+      "name": "Quarter white",
+      "box": [
+        65,
+        130,
+        190,
+        190
+      ],
+      "geometry": "ellipse",
+      "color": "FFFFFF",
+      "opacity": 25,
+      "group": "Blur probes"
+    },
+    {
+      "type": "shape",
+      "name": "Cyan sixty",
+      "box": [
+        350,
+        140,
+        170,
+        170
+      ],
+      "color": "00FFFF",
+      "opacity": 60,
+      "group": "Blur probes"
+    },
+    {
+      "type": "shape",
+      "name": "Mask field",
+      "box": [
+        40,
+        370,
+        560,
+        60
+      ],
+      "color": "FFFFFF",
+      "group": "Fade probe"
+    }
+  ]
+}

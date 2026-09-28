@@ -1,0 +1,111 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1350,
+    "background": "F5F0E7"
+  },
+  "layers": [
+    {
+      "type": "gradient",
+      "name": "Lavender atmosphere",
+      "box": [
+        0,
+        280,
+        1080,
+        600
+      ],
+      "stops": [
+        [
+          0,
+          "C6A7F1",
+          0.44
+        ],
+        [
+          1,
+          "C6A7F1",
+          0
+        ]
+      ],
+      "angle": -90
+    },
+    {
+      "type": "image",
+      "name": "Orb depth blur",
+      "file": "orb.png",
+      "box": [
+        575,
+        405,
+        360,
+        360
+      ],
+      "blur_px": 24,
+      "fit": "contain"
+    },
+    {
+      "type": "image",
+      "name": "Orb foreground",
+      "file": "orb.png",
+      "box": [
+        610,
+        440,
+        360,
+        360
+      ],
+      "fit": "contain"
+    },
+    {
+      "type": "text",
+      "name": "Headline",
+      "text": "FRESH IDEAS",
+      "font": "Poppins-Bold",
+      "color": "1B2042",
+      "box": [
+        86,
+        138,
+        800,
+        66
+      ],
+      "font_size_px": 94
+    },
+    {
+      "type": "text",
+      "name": "Subheadline",
+      "text": "Design better, every day.",
+      "font": "ArialMT",
+      "color": "34364E",
+      "box": [
+        87,
+        247,
+        800,
+        33
+      ],
+      "font_size_px": 37
+    },
+    {
+      "type": "shape",
+      "name": "Button",
+      "color": "28254B",
+      "box": [
+        80,
+        1060,
+        420,
+        120
+      ],
+      "radius_px": 24
+    },
+    {
+      "type": "text",
+      "name": "Button text",
+      "text": "START CREATING",
+      "font": "Poppins-Bold",
+      "color": "FFFFFF",
+      "box": [
+        121,
+        1093,
+        360,
+        27
+      ],
+      "font_size_px": 38
+    }
+  ]
+}
