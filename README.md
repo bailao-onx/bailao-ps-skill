@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="docs/media/bailao-psd-demo-1080p.mp4"><img src="docs/media/bailao-psd-demo-loop-720.gif" alt="Photoshop demo: editable layers, independent assets and multiple layouts." width="540"></a><br>
-  <sub>Photoshop demo · includes illustrative transitions · <a href="docs/media/bailao-psd-demo-1080p.mp4">Watch with sound</a></sub>
+  <a href="docs/media/bailao-psd-demo-1080p.mp4"><img src="docs/media/bailao-psd-demo-loop-1440.gif" alt="Photoshop demo: editable layers, independent assets and multiple layouts." width="100%"></a><br>
+  <sub>Photoshop demo · includes illustrative transitions · <a href="docs/media/bailao-psd-demo-1080p.mp4">Watch full video · 1080p</a></sub>
 </p>
 
 ## Your AI image is ready. Keep editing in Photoshop.

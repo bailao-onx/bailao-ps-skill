@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-  <a href="docs/media/bailao-psd-demo-1080p.mp4"><img src="docs/media/bailao-psd-demo-loop-720.gif" alt="Photoshop 演示：分层重建、独立素材与多种排版。" width="540"></a><br>
-  <sub>Photoshop 演示（含示意转场） · <a href="docs/media/bailao-psd-demo-1080p.mp4">观看有声版</a></sub>
+  <a href="docs/media/bailao-psd-demo-1080p.mp4"><img src="docs/media/bailao-psd-demo-loop-1440.gif" alt="Photoshop 演示：分层重建、独立素材与多种排版。" width="100%"></a><br>
+  <sub>Photoshop 演示（含示意转场） · <a href="docs/media/bailao-psd-demo-1080p.mp4">观看完整高清影片 · 1080p</a></sub>
 </p>
 
 ## AI 图有了，接着在 Photoshop 里改
