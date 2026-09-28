@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/media/hero.png" alt="bailao-ps-skill — Tell Codex what to change in Photoshop. Rearrange, edit and deliver a PSD." width="100%">
+  <img src="docs/media/bailao-psd-demo-cover-1200x400.png" alt="bailao-ps-skill — Tell Codex what to change in Photoshop. Rearrange, edit and deliver a PSD." width="100%">
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="docs/media/photoshop-demo.mp4"><img src="docs/media/photoshop-demo-loop.gif" alt="Photoshop demo: editable layers, independent assets and multiple layouts." width="540"></a><br>
-  <sub>Photoshop demo · includes illustrative transitions · <a href="docs/media/photoshop-demo.mp4">Watch with sound</a></sub>
+  <a href="docs/media/bailao-psd-demo-1080p.mp4"><img src="docs/media/bailao-psd-demo-loop-720.gif" alt="Photoshop demo: editable layers, independent assets and multiple layouts." width="540"></a><br>
+  <sub>Photoshop demo · includes illustrative transitions · <a href="docs/media/bailao-psd-demo-1080p.mp4">Watch with sound</a></sub>
 </p>
 
 ## Your AI image is ready. Keep editing in Photoshop.

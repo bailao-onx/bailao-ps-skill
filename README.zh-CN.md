@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/media/hero.png" alt="bailao-ps-skill：用白话让 Codex 操作 Photoshop，帮你重新排版、修改设计，直接交付 PSD。" width="100%">
+  <img src="docs/media/bailao-psd-demo-cover-1200x400.png" alt="bailao-ps-skill：用白话让 Codex 操作 Photoshop，帮你重新排版、修改设计，直接交付 PSD。" width="100%">
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="docs/media/photoshop-demo.mp4"><img src="docs/media/photoshop-demo-loop.gif" alt="Photoshop 演示：分层重建、独立素材与多种排版。" width="540"></a><br>
-  <sub>Photoshop 演示（含示意转场） · <a href="docs/media/photoshop-demo.mp4">观看有声版</a></sub>
+  <a href="docs/media/bailao-psd-demo-1080p.mp4"><img src="docs/media/bailao-psd-demo-loop-720.gif" alt="Photoshop 演示：分层重建、独立素材与多种排版。" width="540"></a><br>
+  <sub>Photoshop 演示（含示意转场） · <a href="docs/media/bailao-psd-demo-1080p.mp4">观看有声版</a></sub>
 </p>
 
 ## AI 图有了，接着在 Photoshop 里改
